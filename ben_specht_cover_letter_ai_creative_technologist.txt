@@ -1,0 +1,27 @@
+Dear Hiring Team,
+
+I am a Creative Technologist with extensive experience in AI development and implementation, combining five years of creative technology expertise with four years specializing in cutting-edge AI systems. My recent achievement developing a world-first real-time AI video and audio inference platform for Netflix demonstrates my capability to push the boundaries of AI technology in creative applications.
+
+This project, which won a Bronze Cannes Lion, achieved unprecedented inference speeds for full-body and voice processing in a video call environment. I took academic research from whitepaper to production, improving model performance and reducing AI inferencing time by 50%. This showcases my ability to optimize and deploy complex AI systems at scale while delivering award-winning creative work.
+
+My portfolio spans innovative AI applications across multiple creative disciplines:
+- Development of custom AI models and weights for all major image generation platforms
+- Implementation of proprietary AI toolchains and agent systems, including founding my own AI startup
+- Design and deployment of real-time AI systems for entertainment applications
+- Integration of machine learning frameworks with creative workflows for award-winning campaigns
+
+I have particular expertise in:
+- Advanced prompt engineering and LLM fine-tuning across all major AI platforms
+- Custom model development using TensorFlow and PyTorch
+- Node-based visual programming systems, including extensive TouchDesigner experience
+- Full-stack development capabilities with expert-level Python, JavaScript, and system administration
+- Creative tool integration spanning Adobe Creative Suite and emerging AI platforms
+
+My consulting background has given me unique insights into AI implementation across creative industries. I have worked directly with award-winning creatives at agencies including AKQA, delivering solutions that merge technical innovation with creative storytelling. My work has been featured multiple times in Campaign Brief's "The Work" and shortlisted for D&AD awards, demonstrating consistent ability to translate complex AI capabilities into compelling creative outcomes.
+
+Currently, I maintain active engagement with the AI community through continuous experimentation with emerging technologies and platforms. My experience spans both traditional machine learning approaches and the latest developments in generative AI, allowing me to choose and implement the most appropriate solutions for each creative challenge.
+
+I am excited by the opportunity to join your AI transformation team and help accelerate innovation in creative production. My proven track record of delivering world-first AI solutions, combined with deep creative industry experience, positions me to contribute immediately to your mission of defining the next era of creative technology.
+
+Kind regards,
+Ben Specht 

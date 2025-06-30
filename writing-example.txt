@@ -1,0 +1,29 @@
+27th November 2024
+
+Dear Sir/Madam,
+
+I am a Creative Technologist with extensive experience in AI development and implementation, holding a Bachelor of Information Technology with a major in Games and Graphics Programming. My career has been marked by pioneering work in AI, particularly in the emerging fields of generative AI and real-time AI systems.
+
+My recent achievement at AKQA, developing a world-first real-time AI video and audio inference platform for Netflix, demonstrates my capability to push the boundaries of AI technology. This project achieved unprecedented inference speeds for full-body and voice processing in a video call environment, showcasing my ability to optimize and deploy complex AI systems at scale.
+
+At Deloitte, I specialized in innovative AI applications, including:
+Development of AI-powered holographic interfaces, creating the world's first life-size chatbot hologram
+Implementation of data-driven generative art systems that created over 6,000 unique assets
+Design and deployment of metahuman experiences utilizing advanced AI animation and interaction systems
+Integration of large language models and computer vision systems for defense training applications
+
+I have particular expertise in:
+Real-time AI inference optimization and deployment
+Multi-modal AI systems combining video, audio, and text processing
+Large language model implementation and fine-tuning
+Computer vision systems for human interaction
+Generative AI for creative applications
+AI model optimization for edge devices and real-time applications
+
+My consulting background has given me unique insights into AI implementation across various industries, from entertainment to healthcare. Currently, I'm working with NSW Health Children's Hospitals to develop cutting-edge AI systems that assist in reducing childhood trauma during hospital triage, demonstrating my commitment to applying AI for social impact.
+
+I maintain active engagement with the AI community through my work in generative art and emerging technologies. My experience spans both traditional machine learning approaches and the latest developments in neural networks and generative models, allowing me to choose and implement the most appropriate solutions for each challenge.
+
+Kind regards,
+Ben Specht
+

@@ -1,0 +1,105 @@
+{
+  "personal_info": {
+    "name": "Ben Specht",
+    "title": "Creative Technologist",
+    "current_role": "Chief Product Officer & Co-Founder",
+    "company": "ab0t.com"
+  },
+  "experience_timeline": {
+    "creative_technology": "5 years",
+    "ai_specialization": "4 years", 
+    "technology_overall": "12 years"
+  },
+  "awards_recognition": {
+    "cannes_lions": "Bronze Lion for Netflix 'It's What's Inside' project",
+    "dad_awards": "Shortlisted",
+    "campaign_brief": "Multiple features in 'The Work'",
+    "notable_project": "Netflix 'It's What's Inside' - improved AI inferencing speed by 50%"
+  },
+  "technical_skills": {
+    "programming_languages": {
+      "python": "Expert level",
+      "javascript": "Expert level", 
+      "bash": "Expert level"
+    },
+    "system_administration": {
+      "powershell": "Expert level",
+      "cmd": "Expert level", 
+      "ubuntu_wsl": "Expert level",
+      "git_github": "Expert level"
+    },
+    "ai_ml_frameworks": {
+      "tensorflow": "Extensive experience",
+      "pytorch": "Extensive experience",
+      "custom_model_development": "Expert - designs own models and weights",
+      "llm_fine_tuning": "Advanced",
+      "prompt_engineering": "Expert"
+    },
+    "creative_tools": {
+      "adobe_creative_suite": "Experienced",
+      "touchdesigner": "Extensive experience with node-based systems",
+      "comfyui": "Transferable skills from TouchDesigner"
+    },
+    "ai_platforms": {
+      "image_generation": "All major platforms (Midjourney, Stable Diffusion, etc.) plus custom models",
+      "llm_platforms": "All major platforms (Claude, GPT, Gemini, etc.)",
+      "specialized_tools": "RunwayML, ElevenLabs, Synthesia, Adobe Firefly, etc."
+    }
+  },
+  "industry_experience": {
+    "agencies": ["AKQA", "Multiple top creative agencies"],
+    "work_type": "Direct collaboration with award-winning creatives",
+    "consulting": "Extensive consulting background",
+    "startup_experience": "Founded AI agents startup"
+  },
+  "project_management": {
+    "google_workspace": "Very experienced",
+    "tools_used": ["Atlassian suite", "Monday.com", "Trello"],
+    "teamwork_experience": "Not specifically Teamwork, but extensive PM tool experience"
+  },
+  "xr_immersive_experience": {
+    "vr_ar_xr_development": "Extensive experience building VR, AR, and XR applications plus experimental prototypes",
+    "spatial_computing": "Extensive experience",
+    "xr_hardware_platforms": "Extensive experience across all major XR hardware platforms",
+    "unity_experience": "8 years experience, including real-time rendering work",
+    "performance_optimization": "VR performance optimization and low-powered hardware optimization for high-quality 3D games"
+  },
+  "graphics_programming": {
+    "glsl": "Some experience, but not a core strength",
+    "real_time_rendering": "Extensive experience in Unity for various projects",
+    "graphics_apis": "OpenGL and Vulkan experience, but not extremely complex level"
+  },
+  "platform_specific": {
+    "kotlin": "Minor experience, but not for spatial programming specifically",
+    "mobile_gpu_optimization": "Experienced in VR and low-powered hardware optimization"
+  },
+  "leadership_experience": {
+    "technical_leadership": "Co-led creative technology team at Deloitte for 4-5 months (before redundancy)",
+    "mentoring": "Has mentored junior developers", 
+    "code_standards": "Experience establishing code standards and technical architectures",
+    "team_size": "Small team leadership experience"
+  },
+  "client_facing_skills": {
+    "technical_presentations": "Extensive experience building technical presentations",
+    "demo_prototyping": "Core skill from Deloitte - built demos for large variety of clients",
+    "rapid_prototyping": "Extremely adept at 'hacking' things together for MVPs - Deloitte sales approach was demo-first",
+    "sdk_integration": "Exceedingly high experience - expected to learn new frameworks in hours not months at Deloitte",
+    "swiss_army_knife": "Adaptable across multiple frameworks and able to present to clients quickly"
+  },
+  "areas_for_development": {
+    "cgi_3d_production": "Limited experience - some Houdini and Blender experimentation, but no finished work",
+    "kotlin_spatial_computing": "Minor Kotlin experience, would need to develop spatial computing specific skills"
+  },
+  "key_achievements": {
+    "netflix_project": "Key AI engineer for Bronze Cannes Lion winning campaign",
+    "performance_optimization": "Reduced AI inferencing speed by 50% from whitepaper implementation",
+    "innovation": "Developed world-first real-time AI video and audio inference platform",
+    "entrepreneurship": "Founded and leads AI startup ab0t.com"
+  },
+  "professional_qualities": {
+    "innovation_focus": "Constantly searching for what's next in AI and creative tech",
+    "cross_disciplinary": "Fluent in creative, technical, and production domains",
+    "hands_on_approach": "Builds and prototypes, doesn't just conceptualize",
+    "industry_recognition": "Award-winning work demonstrates ability to deliver production-ready solutions"
+  }
+} 
